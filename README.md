@@ -3,4 +3,4 @@ My Cinnamon desktop configuration
 
 ## Restore
 
-`dconf load /org/cinnamon/ < cinnamon.backup`
+`dconf load /org/cinnamon/ < cinnamon.dconf`
